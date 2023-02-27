@@ -1,0 +1,10 @@
+.posts {
+  background-color: #ccc;
+  height: 80vh;
+  overflow: hidden;
+  padding: 10px;
+  text-align: center;
+}
+.li {
+  text-align: center;
+}
