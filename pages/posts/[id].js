@@ -1,6 +1,6 @@
 const Details = (props) => {
   return (
-    <div>
+    <div className="vh-80 card">
       <p>{props.post.title}</p>
       <p>{props.post.body}</p>
     </div>
